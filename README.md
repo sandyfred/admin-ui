@@ -1,17 +1,8 @@
-# Getting Started with Create React App
+# Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+UI for Admins to see and delete users.
+Implemented Pagination to display 10 users at a time.
+Search Bar to filter users on any property.
+Checkbox to select all users on the current page as well as individual users.
+Feature to edit user details and delete selected users.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
