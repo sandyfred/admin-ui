@@ -6,3 +6,10 @@ Search Bar to filter users on any property.
 Checkbox to select all users on the current page as well as individual users.
 Feature to edit user details and delete selected users.
 
+### Install
+Clone the Repo.
+```bash
+$ cd Admin-UI
+$ npm install
+$ npm start
+```
